@@ -3,7 +3,7 @@
   Nice to meet you~💗 你好👋
 </p> -->
 
-<img width="946" alt="image" src="https://user-images.githubusercontent.com/75625953/162548099-1635f551-89b1-480a-a13d-27c631e1e927.png">
+<!-- <img width="946" alt="image" src="https://user-images.githubusercontent.com/75625953/162548099-1635f551-89b1-480a-a13d-27c631e1e927.png"> -->
 
 Hello Everyone!!!😊 
 Nice to meet you~💗 你好👋
