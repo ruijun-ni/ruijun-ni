@@ -11,8 +11,8 @@ Hello Everyone!!!😊 你好👋
 
 <div align="center">
   
- <img width='500' src='https://github-readme-stats.vercel.app/api/top-langs/?username=reginanee&layout=compact&count_private=true&theme=vue'/><br><br>
-<img width='500' src="https://activity-graph.herokuapp.com/graph?username=reginanee&theme=minimal" />
+ <img width='500' src='https://github-readme-stats.vercel.app/api/top-langs/?username=ruijun-ni&layout=compact&count_private=true&theme=vue'/><br><br>
+<img width='500' src="https://activity-graph.herokuapp.com/graph?username=ruijun-ni&theme=minimal" />
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reginanee&layout=compact&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
   
