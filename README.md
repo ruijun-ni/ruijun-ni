@@ -20,4 +20,5 @@
 
 
 <!-- ![Regina's github activity graph](https://activity-graph.herokuapp.com/graph?username=reginanee) -->
- 
+
+![](https://visitor-badge.glitch.me/badge?page_id=ruijun-ni.ruijun-ni)
