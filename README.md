@@ -1,9 +1,9 @@
-### Hello Everyone, this is [Ruijun](https://ruijun-ni.github.io/)!!!😊 你好👋
+### Hello Everyone, this is Ruijun! 你好👋
 - 🔭 I’m a CS undergrad student at University of Minnesota, Twin Cities 
 - 🌱 I’m passionate about frontend and fullstack web development
 - 🖥️ Wanna know more about me? Explore my [portfolio](https://ruijun-ni.github.io) and [blog](https://ruijun-ni.github.io/blog/)!!
 - 📫 You're welcomed to reach me via  <a href="mailto:ruijun23sde@gmail.com" title="Email"><img src="/assets/GmailSM.svg" height="25" aria-hidden="true"></a><a href="https://www.linkedin.com/in/ruijunni/" title="LinkedIn"><img src="/assets/LinkedInSM.svg" height="25" aria-hidden="true" style="margin-right: 5px;"></a>
- 
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -18,7 +18,7 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) 
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
- 
+
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -41,8 +41,17 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=ruijun-ni&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ruijun-ni&theme=dark&hide_border=false)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ruijun-ni&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+<details>
+<summary>Click for GitHub Stats</summary>
+<p align="center">
+  ![](https://github-readme-stats.vercel.app/api?username=ruijun-ni&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+  <br>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=ruijun-ni&theme=dark&hide_border=false)
+  <br>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ruijun-ni&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</p>
+</details>
 
 [![](https://visitcount.itsvg.in/api?id=ruijun-ni&icon=0&color=0)](https://visitcount.itsvg.in)
