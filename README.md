@@ -46,11 +46,9 @@
 <details>
 <summary>Click for GitHub Stats</summary>
 <p align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=ruijun-ni&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-  <br>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=ruijun-ni&theme=dark&hide_border=false)
-  <br>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ruijun-ni&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ruijun-ni&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <br>
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruijun-ni&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
 </p>
 </details>
 
