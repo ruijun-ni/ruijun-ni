@@ -55,11 +55,12 @@
 
 
 <details>
-<summary>~ 📇 𝘎𝘪𝘵𝘏𝘶𝘣 𝘚𝘵𝘢𝘵𝘴 📇 ~</summary>
-<p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ruijun-ni&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555&count_private=true">
-    <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruijun-ni&hide=html,&hide_border=true&title_color=5391FE&text_color=555&layout=compact&langs_count=10"
-</p>
+    <summary>~ 📇 𝘎𝘪𝘵𝘏𝘶𝘣 𝘚𝘵𝘢𝘵𝘴 📇 ~</summary>
+    <div align="center">
+        <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ruijun-ni&show_icons=true&hide=issues&icon_color=FFB3C6&hide_border=true&title_color=FF69B4&text_color=FFB3C6&count_private=true&theme=transparent"/>
+        <br>
+        <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruijun-ni&hide=html,&hide_border=true&title_color=FF69B4&text_color=FFB3C6&layout=compact&langs_count=10&theme=transparent"/>
+        <br>
+        <img src="/profile-3d-contrib/profile-night-view.svg"/>
+    </div>
 </details>
-
