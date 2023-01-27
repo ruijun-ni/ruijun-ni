@@ -57,9 +57,9 @@
 <details>
 <summary>~ 📇 𝘎𝘪𝘵𝘏𝘶𝘣 𝘚𝘵𝘢𝘵𝘴 📇 ~</summary>
 <p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ruijun-ni&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ruijun-ni&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555&count_private=true">
     <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruijun-ni&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruijun-ni&hide=html,&hide_border=true&title_color=5391FE&text_color=555&layout=compact&langs_count=10"
 </p>
 </details>
 
