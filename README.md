@@ -3,7 +3,9 @@
 <img src="/assets/bg.jpg">
 
 <div align="center">
-    <img src="https://visitcount.itsvg.in/api?id=ruijun-ni&icon=0&color=0"/>
+    <a href="https://ruijun-ni.github.io">
+        <img alt="image bar" src="https://visitcount.itsvg.in/api?id=ruijun-ni&icon=0&color=0"/>
+    </a>
 </div>
 
 <br>
