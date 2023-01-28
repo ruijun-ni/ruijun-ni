@@ -1,11 +1,11 @@
 <h1 align="center"> 🎀 𝐻𝑒𝓁𝓁𝑜 𝑒𝓋𝑒𝓇𝓎𝑜𝓃𝑒 𝓉𝒽𝒾𝓈 𝒾𝓈 𝓡𝓾𝓲𝓳𝓾𝓷❣ 🎀 </h1>
 
-<img src="/assets/bg.jpg">
+<a href="https://ruijun-ni.github.io" target="_blank">
+    <img src="/assets/bg.jpg">
+</a>
 
 <div align="center">
-    <a href="https://ruijun-ni.github.io">
-        <img alt="image bar" src="https://visitcount.itsvg.in/api?id=ruijun-ni&icon=0&color=0"/>
-    </a>
+    <img alt="image bar" src="https://visitcount.itsvg.in/api?id=ruijun-ni&icon=0&color=0"/>
 </div>
 
 <br>
